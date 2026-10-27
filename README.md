@@ -60,7 +60,7 @@ Deleting a student also deletes their marks (`ON DELETE CASCADE`).
 The database file `students.db` is created automatically on the first run.
 
 ## What I learned
-[Write 2 to 3 lines in your own words, for example: why PreparedStatement is used, or what the JOIN query does.]
+ why PreparedStatement is used, or what the JOIN query does.
 
 ## Possible improvements
 - Edit or delete individual marks
